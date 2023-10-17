@@ -19,7 +19,9 @@ Additionally, I have had experience in various types of organizational structure
 ## Current Project
 
 [![paperbot](https://svg.bookmark.style/api?url=https://github.com/tadeusER/botpapere&mode=dark&style=horizontal)](https://github.com/tadeusER/botpaper)
+
 [![research-api](https://svg.bookmark.style/api?url=https://github.com/tadeusER/researchapi&mode=light&style=horizontal)](https://github.com/tadeusER/researchapi)
+
 [![librarymergekicad](https://svg.bookmark.style/api?url=https://github.com/EnriqueERamirez/librarymergekicad&mode=light&style=horizontal)](https://github.com/EnriqueERamirez/librarymergekicad)
 
 
