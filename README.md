@@ -21,3 +21,4 @@ Además, he tenido experiencia en diversos tipos de estructuras organizacionales
 ## Current Project
 - [librarymergekicad](https://github.com/EnriqueERamirez/librarymergekicad) Bitkub Trading Bot.
 - [go-bitkub](https://github.com/touno-io/bitkub-go) Bitkub API and WebSocket golang.
+- [https://github.com/tadeusER/botpaper] recolector paper in period
