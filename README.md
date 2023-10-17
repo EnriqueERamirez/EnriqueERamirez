@@ -19,3 +19,7 @@ Additionally, I have had experience in various types of organizational structure
 ## Current Project
 - [librarymergekicad](https://github.com/EnriqueERamirez/librarymergekicad) merge libreri in kicad.
 - [botpaper](https://github.com/tadeusER/botpaper)  paper collector in period.
+
+[![paperbot](https://svg.bookmark.style/api?url=https://github.com/tadeusER/botpapere&mode=dark&style=horizontal)](https://github.com/tadeusER/botpaper)
+[![research-api](https://svg.bookmark.style/api?url=https://github.com/tadeusER/researchapi&mode=light&style=horizontal)](https://github.com/tadeusER/researchapi)
+[![librarymergekicad](https://svg.bookmark.style/api?url=https://github.com/EnriqueERamirez/librarymergekicad&mode=light&style=horizontal)](https://github.com/EnriqueERamirez/librarymergekicad)
