@@ -16,7 +16,9 @@ I am familiar with a wide variety of work methodologies, both agile and traditio
     - V-Model
       
 Additionally, I have had experience in various types of organizational structures, which helps me understand and collaborate effectively in teams with different dynamics and work approaches.
+
 ## Current Project
+List all proyect interents
 
 [![paperbot](https://svg.bookmark.style/api?url=https://github.com/tadeusER/botpapere&mode=dark&style=horizontal)](https://github.com/tadeusER/botpaper)
 
