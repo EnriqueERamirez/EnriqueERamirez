@@ -17,8 +17,6 @@ I am familiar with a wide variety of work methodologies, both agile and traditio
       
 Additionally, I have had experience in various types of organizational structures, which helps me understand and collaborate effectively in teams with different dynamics and work approaches.
 ## Current Project
-- [librarymergekicad](https://github.com/EnriqueERamirez/librarymergekicad) merge libreri in kicad.
-- [botpaper](https://github.com/tadeusER/botpaper)  paper collector in period.
 
 [![paperbot](https://svg.bookmark.style/api?url=https://github.com/tadeusER/botpapere&mode=dark&style=horizontal)](https://github.com/tadeusER/botpaper)
 [![research-api](https://svg.bookmark.style/api?url=https://github.com/tadeusER/researchapi&mode=light&style=horizontal)](https://github.com/tadeusER/researchapi)
